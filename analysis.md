@@ -12,16 +12,16 @@ Brand new users
 Test wallets
 Bots or potential exploiters
 
-🔍 Low Score Wallets (0-300):
-       credit_score
-count    456.000000
-mean     202.622807
-std       12.194678
-min      200.000000
-25%      200.000000
-50%      200.000000
-75%      200.000000
-max      296.000000
+| Metric         | Value  |
+| -------------- | ------ |
+| Count          | 456    |
+| Mean           | 202.62 |
+| Std Dev        | 12.19  |
+| Min            | 200    |
+| 25% Percentile | 200    |
+| 50% (Median)   | 200    |
+| 75% Percentile | 200    |
+| Max            | 296    |
 
 
 
@@ -38,9 +38,34 @@ Genuine DeFi users
 Long-term holders or yield farmers
 Low risk of manipulation or spam
 
+
+| Metric         | Value     |
+|----------------|-----------|
+| Count          | 2530      |
+| Mean           | 826.14    |
+| Std Dev        | 66.80     |
+| Min            | 800.00    |
+| 25% Percentile | 800.00    |
+| 50% (Median)   | 800.00    |
+| 75% Percentile | 800.00    |
+| Max            | 1000.00   |
+
+
+
 <img width="1307" height="627" alt="image" src="https://github.com/user-attachments/assets/0e1508e4-a703-4af8-9b6b-babf6ffe23d1" />
 
-
+| Score Range | Number of Wallets |
+|-------------|-------------------|
+| 0 - 100     | 0                 |
+| 100 - 200   | 0                 |
+| 200 - 300   | 456               |
+| 300 - 400   | 3                 |
+| 400 - 500   | 219               |
+| 500 - 600   | 95                |
+| 600 - 700   | 194               |
+| 700 - 800   | 0                 |
+| 800 - 900   | 2197              |
+| 900 - 1000  | 47                |
 
 
 
