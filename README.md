@@ -55,7 +55,4 @@ The idea: If traditional finance has FICO, then DeFi should have something smart
 
 ---
 
-## 🔧 Requirements
 
-```bash
-pip install -r requirements.txt
